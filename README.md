@@ -1,11 +1,11 @@
 # Tables of contents
 
-***
+---
 ## 1. [Requirements](#1-requirements-1)
-## 2. How to use
-## 3. Containerization
-## 4. Further ỉmprovement
-***
+## 2. [How to use](#2-how-to-use-1)
+## 3. [Containerization](#3-containerization-1)
+## 4. [Further improvement](#4-further-improvement-1)
+---
 
 # 1. Requirements
 
